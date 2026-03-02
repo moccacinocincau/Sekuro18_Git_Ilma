@@ -1,0 +1,6 @@
+*   cafae53 resolve merge conflict
+|\  
+| * ef3c13c add version 1 comment
+* | 1a611dc add version 2 comment
+|/  
+* fdea4d9 inisiasi github
